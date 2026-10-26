@@ -72,7 +72,6 @@ flowchart LR
 | `PCSourceMUX` | Chooses PC + 4 or the computed target as the next PC |
 | `SingleCycleProcessorCore` | Top level that wires the datapath together |
 
-<img width="501" height="344" alt="Screenshot 2026-08-03 224710" src="https://github.com/user-attachments/assets/8fd72e7e-00a7-426e-a7c5-2a571aca78cd" />
 
 ### Supported instructions (37)
 
